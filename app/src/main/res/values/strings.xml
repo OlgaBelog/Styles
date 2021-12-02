@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application 4version</string>
+    <string name="label_1">Отлично</string>
+    <string name="label_2">Хорошо</string>
+    <string name="label_3">Средне</string>
+    <string name="label_4">Плохо</string>
+    <string name="label_5">Очень плохо</string>
+    <string name="Head_text">Моя заготовка калькулятора</string>
+    <string name="Воttom_text">Оцените качество:</string>
+    <string name="todo">TODO</string>
+</resources>
